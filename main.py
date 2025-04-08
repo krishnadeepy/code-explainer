@@ -14,9 +14,9 @@ DEFAULT_INCLUDE_PATTERNS = {
 }
 
 DEFAULT_EXCLUDE_PATTERNS = {
-    "*test*", "tests/*", "docs/*", "examples/*", "v1/*", 
+    "*test*", "tests/*", "docs/*", "examples/*",
     "dist/*", "build/*", "experimental/*", "deprecated/*", 
-    "legacy/*", ".git/*", ".github/*"
+    "legacy/*", ".git/*", ".github/*","*.config.js", "*.json"
 }
 
 # --- Main Function ---
