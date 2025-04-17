@@ -25,3 +25,5 @@
     - `-s, --max-size` - Maximum file size in bytes (default: 100KB)
       
 The application will crawl the repository, analyze the codebase structure, generate tutorial content, and save the output in the specified directory (default: ./output).
+
+Check (./output) folder for example samples.
