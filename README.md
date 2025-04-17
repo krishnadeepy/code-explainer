@@ -1,8 +1,5 @@
 # Code-Exapliner
 
-
-## 🚀 Getting Started
-
 1. Clone this repository
 
 2. Install dependencies: 
